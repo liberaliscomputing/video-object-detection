@@ -127,3 +127,13 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Pre-trained weights
+*.pkl
+*.h5
+
+# Videos
+*.avi
+*.m4v
+*.mov
+*.mp4
